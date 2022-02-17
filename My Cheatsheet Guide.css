@@ -1,0 +1,60 @@
+.guide {
+
+    text-align: center;
+    padding-bottom: 20px;
+    border-bottom: 2px solid;
+    Font-Family: 'Lato', Sans-Serif;
+    Font-Size: 46px;
+    
+}
+
+.heading {
+    
+    top:20px;
+    Font-Family: 'Lato', Sans-Serif;
+    Font-Size: 26px;
+   
+
+.row1 {
+
+    display: inline-block;
+    margin: 10px 10px;
+    Font-Family: 'Catamaran', Sans-Serif;
+    Font-Size: 16px;
+
+}
+
+.row2 {
+
+    display: inline-block;    
+    margin: 10px 10px;
+    Font-Family: 'Lato', Sans-Serif;
+    Font-Size: 46px;
+    Font-Family: 'Catamaran', Sans-Serif;
+    Font-Size: 16px;
+}
+
+.row3 {
+
+    display: inline-block;
+    margin: 10px 10px;
+    Font-Family: 'Lato', Sans-Serif;
+    Font-Size: 46px;
+    Font-Family: 'Catamaran', Sans-Serif;
+    Font-Size: 16px;
+
+
+}
+
+.url {
+
+    display: block;
+    Font-Family: 'Lato', Sans-Serif;
+    Font-Size: 46px;
+    Font-Family: 'Catamaran', Sans-Serif;
+    Font-Size: 16px;
+    
+}
+
+ 
+
